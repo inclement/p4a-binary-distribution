@@ -1,1 +1,1 @@
-[{"recipes": ["hostpython2", "sdl2_image", "sdl2_mixer", "sdl2_ttf", "python2", "sdl2", "pyjnius", "kivy"], "name": "sdl2_test"}]
+[{"recipes": ["hostpython2", "sdl2_image", "sdl2_mixer", "sdl2_ttf", "python2", "sdl2", "pyjnius", "kivy"], "name": "sdl2_test"}, {"recipes": ["hostpython2", "pygame_bootstrap_components", "python2", "sdl", "pygame", "pyjnius", "android", "kivy"], "name": "pygame_test"}]
